@@ -1,0 +1,40 @@
+---
+title: "Edgar Gonzalez Martinez"
+image: IMG_1774.jpeg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/edgargm
+    - icon: github
+      text: GitHub
+      href: https://github.com/CheddyG
+---
+
+Welcome to my portfolio! I am a recent UCSB Statistics and Data Science graduat with experience in time series modeling, machine learning, and applied statistical analysis. Below are some of my recent projects. Check them out!
+
+## Featured Projects
+
+### [Ventura County Wildfire Time Series](https://github.com/CheddyG/)
+Investigation into Ventura County wildfire occurrence using NOAA and NASA POWER datasets. 
+Develops SARIMA and ARMAX frameworks incorporating drought index lags, vapor pressure 
+deficit, and temperature predictors.
+
+* **Keywords:** R, SARIMA, ARMAX, NASA POWER, Environmental Modeling
+
+### [Pokémon Tournament Simulation Tool](https://github.com/CheddyG/PWT-Simulation-Tournament)
+Python data pipeline that parses tournament structure, simulates match mechanics, and 
+analyzes competitive trainer data.
+
+* **Keywords:** Python, Simulation, Exploratory Data Analysis
+
+---
+
+## Technical Skills
+
+* **Languages:** R, Python, SQL, Git/Bash
+* **Libraries:** tidyverse, forecast, scikit-learn, pandas, ggplot2
+* **Methodologies:** Time Series Forecasting, Regression Analysis, Simulation Modeling, 
+  Dimensionality Reduction (PCA)
+* **Tools:** Quarto, GitHub Pages, LaTeX

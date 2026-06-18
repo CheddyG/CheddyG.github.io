@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Edgar Gonzalez Martinez"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: darkly
+    toc: false
