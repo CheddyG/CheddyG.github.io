@@ -1,4 +1,4 @@
-# Edgar Gonzalez Martinez 📊
+# Edgar Gonzalez Martinez 
 **Data Scientist | Machine Learning & Statistical Interpretation** 📍 Santa Barbara, CA | ✉️ [your.email@email.com] | 💼 [LinkedIn](#) | 🐙 [GitHub](https://github.com/CheddyG)
 
 ---
@@ -10,7 +10,7 @@ I build machine learning models with a heavy focus on statistical interpretation
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 PWT-Simulation-Tournament
 * **The Problem:** *[Add 1 sentence here describing the overall goal or problem this tournament/simulation solves, e.g., "Evaluating the performance and stability of diverse algorithmic strategies under complex, simulated tournament constraints."]*
