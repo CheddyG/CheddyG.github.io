@@ -23,7 +23,7 @@ deficit, and temperature predictors.
 
 * **Keywords:** R, SARIMA, ARMAX, NASA POWER, Environmental Modeling
 
-### [Pokémon Tournament Simulation Tool](https://github.com/CheddyG/PWT-Simulation-Tournament)
+### [Pokémon Tournament Simulation Tool](https://cheddyg.github.io/PWT-Simulation-Tournament/)
 Python data pipeline that parses tournament structure, simulates match mechanics, and 
 analyzes competitive trainer data.
 
