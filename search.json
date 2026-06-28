@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Edgar Gonzalez Martinez",
     "section": "",
-    "text": "Welcome to my portfolio! I am a recent UCSB Statistics and Data Science graduat with experience in time series modeling, machine learning, and applied statistical analysis. Below are some of my recent projects. Check them out!"
+    "text": "Welcome to my portfolio! I am a recent UCSB Statistics and Data Science graduate with experience in time series modeling, machine learning, and applied statistical analysis. Below are some of my recent projects. Check them out!"
   },
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
     "title": "Edgar Gonzalez Martinez",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\nVentura County Wildfire Time Series\nInvestigation into Ventura County wildfire occurrence using NOAA and NASA POWER datasets. Develops SARIMA and ARMAX frameworks incorporating drought index lags, vapor pressure deficit, and temperature predictors.\n\nKeywords: R, SARIMA, ARMAX, NASA POWER, Environmental Modeling\n\n\n\nPokémon Tournament Simulation Tool\nPython data pipeline that parses tournament structure, simulates match mechanics, and analyzes competitive trainer data.\n\nKeywords: Python, Simulation, Exploratory Data Analysis"
+    "text": "Featured Projects\n\nVentura County Wildfire Time Series\nInvestigation into Ventura County wildfire occurrence using NOAA and NASA POWER datasets. Develops SARIMA and ARMAX frameworks incorporating drought index lags, vapor pressure deficit, and temperature predictors.\n\nKeywords: R, SARIMA, ARMAX, NASA POWER, Environmental Modeling\n\n\n\nPokémon Tournament Simulation Tool\nPython data pipeline that parses tournament structure, simulates match mechanics, and analyzes competitive trainer data."
   },
   {
     "objectID": "index.html#technical-skills",
